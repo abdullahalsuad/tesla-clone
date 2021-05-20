@@ -70,12 +70,14 @@ const Menu = styled.div`
         align-items: center;
         justify-content: center;
         flex: 1;
+        
 
         a{
-            font-weight: 600;
+            font-weight: 500;
             text-transform: uppercase;
             padding: 0 10px;
             flex-warp: nowarp;
+            color:black;
         }
         @media (max-width: 768px){
             display: none;
