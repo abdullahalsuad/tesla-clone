@@ -38,20 +38,19 @@ function Home() {
             />
 
             <Section
-                 title="Lowest Cost Solar Panels in America"
-                 description="Money-back guarantee"
+                 title="Solar and Powerwall"
+                 description="Power Everything"
                  backgroundImg="solar-panel.jpg"
-                 leftBtnText="Order now"
-                 rightBtnText="Learn more"
+                 leftBtnText="Learn more"
             />
 
-            <Section
+            {/* <Section
                  title="Solar for New Roofs"
                  description="Solar Roof Costs Less Than a New Roof Plus Solar Panels"
                  backgroundImg="solar-roof.jpg"
                  leftBtnText="Order now"
                  rightBtnText="Learn more"
-            />
+            /> */}
 
             <Section
                  title="Accessories"
